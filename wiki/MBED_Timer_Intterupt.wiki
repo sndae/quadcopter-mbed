@@ -1,7 +1,7 @@
 #labels Interrupt,MBED,Library
-Make a timer interrupt:
+*Make a timer interrupt:*
 
-http://mbed.org/handbook/Timeout
+_http://mbed.org/handbook/Timeout_
 
 #include "mbed.h"
 
