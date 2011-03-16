@@ -1,9 +1,6 @@
-#summary One-sentence summary of this page.
 #labels Order,Wiichuk
-
 = WiiChuk Adapter =
 
 [http://www.sparkfun.com/products/9281 http://www.sparkfun.com/products/9281]
 
 http://cdn.slashgear.com/wp-content/uploads/2009/08/wiichuck_wiimote_hack_adapter_1-540x471.jpg
-
